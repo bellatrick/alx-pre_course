@@ -1,1 +1,1 @@
-my first readme
+Learning linux shell and Emacs
